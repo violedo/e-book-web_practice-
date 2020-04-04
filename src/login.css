@@ -1,0 +1,12 @@
+.loginBg{
+    background: url("loginBg.png");
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    position: fixed;
+}
+.loginHead{
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    color: #062c33;
+}
